@@ -35,7 +35,7 @@
                         <i class="position-absolute fas fa-user"></i>
                     </div>
                     <div class="email">
-                        <input type="text" placeholder="Email" name="email" required>
+                        <input type="email" placeholder="Email" name="email" required>
                         <i class="position-absolute fas fa-envelope"></i>
                     </div>
                     <div class="password">
